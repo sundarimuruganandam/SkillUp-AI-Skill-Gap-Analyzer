@@ -190,8 +190,7 @@ if not st.session_state.logged_in:
     st.markdown("<div style='height:12px'></div>",
                 unsafe_allow_html=True)
 
-    left, right = st.columns([1.02, 1], gap="24px")
-
+   left, right = st.columns([1.02, 1], gap="medium")
     with left:
         st.markdown("""
         <div class="login-hero">
