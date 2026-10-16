@@ -1,0 +1,16 @@
+skill,level,duration,learning_order
+Python,Beginner,14 days,1
+SQL,Beginner,12 days,2
+Excel,Beginner,7 days,3
+Power BI,Beginner,10 days,4
+Pandas,Beginner,7 days,5
+NumPy,Beginner,5 days,6
+ETL,Intermediate,10 days,7
+Apache Spark,Intermediate,14 days,8
+AWS,Beginner,14 days,9
+Azure,Beginner,14 days,10
+Docker,Beginner,7 days,11
+Git,Beginner,5 days,12
+Machine Learning,Intermediate,20 days,13
+NLP,Intermediate,15 days,14
+Tableau,Beginner,10 days,15

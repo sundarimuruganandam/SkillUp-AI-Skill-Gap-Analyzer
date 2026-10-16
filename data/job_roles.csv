@@ -1,0 +1,38 @@
+job_role,skill
+Data Analyst,Python
+Data Analyst,SQL
+Data Analyst,Excel
+Data Analyst,Power BI
+Data Analyst,Pandas
+Data Engineer,Python
+Data Engineer,SQL
+Data Engineer,ETL
+Data Engineer,Apache Spark
+Data Engineer,AWS
+Data Engineer,Git
+Big Data Engineer,Python
+Big Data Engineer,SQL
+Big Data Engineer,Apache Spark
+Big Data Engineer,AWS
+Big Data Engineer,Docker
+Big Data Engineer,Git
+Data Scientist,Python
+Data Scientist,SQL
+Data Scientist,Pandas
+Data Scientist,NumPy
+Data Scientist,Machine Learning
+Machine Learning Engineer,Python
+Machine Learning Engineer,NumPy
+Machine Learning Engineer,Pandas
+Machine Learning Engineer,Machine Learning
+Machine Learning Engineer,Docker
+Machine Learning Engineer,AWS
+BI Analyst,SQL
+BI Analyst,Excel
+BI Analyst,Power BI
+BI Analyst,Tableau
+Cloud Data Engineer,Python
+Cloud Data Engineer,SQL
+Cloud Data Engineer,ETL
+Cloud Data Engineer,AWS
+Cloud Data Engineer,Docker
