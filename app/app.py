@@ -123,4 +123,4 @@ with tab_analyze:
                             hide_index=True,
                         )
 
-with tab_skills:
+
