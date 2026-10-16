@@ -192,8 +192,8 @@ if not st.session_state.logged_in:
     
 left, right = st.columns([1.02, 1], gap="medium")
 
-    with left:
-        st.markdown("""
+with left:
+    st.markdown("""
         <div class="login-hero">
             <div>
                 <div class="hero-brand">✨ SkillUp AI</div>
